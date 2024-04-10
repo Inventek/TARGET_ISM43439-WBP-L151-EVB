@@ -21,6 +21,7 @@
                 "i2c",
                 "i2s",
                 "ism43439_wbp_l151_evb",
+		"led",
                 "low_power",
                 "lptimer",
                 "mcu_gp",

@@ -44,6 +44,9 @@
                     <Alias value="CYBSP_WIFI_HOST_WAKE"/>
                     <Alias value="CYBSP_USER_BTN"/>
                 </Block>
+                <Block location="ioss[0].port[11].pin[1]">
+                    <Alias value="CYBSP_USER_LED"/>
+                </Block>
                 <Block location="ioss[0].port[11].pin[2]">
                     <Alias value="CYBSP_QSPI_SS"/>
                 </Block>
