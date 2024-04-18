@@ -6,6 +6,7 @@
         "props": {
             "capabilities": [
                 "adc",
+				"anycloud",
                 "bsp_gen4",
                 "bt",
                 "button",
@@ -21,7 +22,7 @@
                 "i2c",
                 "i2s",
                 "ism43439_wbp_l151_evb",
-		"led",
+				"led",
                 "low_power",
                 "lptimer",
                 "mcu_gp",
