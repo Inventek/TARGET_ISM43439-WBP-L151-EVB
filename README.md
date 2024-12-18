@@ -2,9 +2,9 @@
 
 ## Overview
 
-The ISM43439-WBP-L151-EVB Evaluation Kit enables you to evaluate and develop applications using PSoC™ 62 (CY8C6248FNI-S2D43T) MCU. The evaluation kit features a AIROC™ CYW43439 Wi-Fi/Bluetooth combo device. It comes with on-board debugger/programmer with KitProg3, Infineon 512-Mb(S25FL512SAGMFI010) Quad-SPI NOR flash.     
+The ISM43439-WBP-L151-EVB Evaluation Kit enables you to evaluate and develop applications using PSOC™ 62 (CY8C6248FNI-S2D43T) MCU. The evaluation kit features a AIROC™ CYW43439 Wi-Fi/Bluetooth combo device. It comes with on-board debugger/programmer with KitProg3, Infineon 512-Mb(S25FL512SAGMFI010) Quad-SPI NOR flash.     
 **Note:**
-ISM43439-WBP-L151-EVB is the board support package for the ISM43439-WBP-L151 SIP which has a PSoC™ 62 (CY8C6248FNI-S2D43T) in combination with the CYW43439 radio and supports PSoC™ 6 MCU examples and Wi-Fi/Bluetooth connectivity examples.
+ISM43439-WBP-L151-EVB is the board support package for the ISM43439-WBP-L151 SIP which has a PSOC™ 62 (CY8C6248FNI-S2D43T) in combination with the CYW43439 radio and supports PSOC™ 6 MCU examples and Wi-Fi/Bluetooth connectivity examples.
 
 
 
@@ -20,7 +20,7 @@ To use code from the BSP, simply include a reference to `cybsp.h`.
 
 ### Kit Contents:
 
-* ISM43439-WBP-L151-EVB™ Evaluation Board (PSoC™ CY8C6248FNI-S2D43T MCU + CYW43439 Wi-Fi/Bluetooth Radio)
+* ISM43439-WBP-L151-EVB™ Evaluation Board (PSOC™ CY8C6248FNI-S2D43T MCU + CYW43439 Wi-Fi/Bluetooth Radio)
 * USB Type-A to Micro-B cable
 * Quick start guide
 
